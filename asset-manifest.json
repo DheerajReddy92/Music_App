@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Music_App/static/css/main.f32f07a5.css",
-    "main.js": "/Music_App/static/js/main.e11d6efb.js",
+    "main.css": "/Music_App/static/css/main.0c115196.css",
+    "main.js": "/Music_App/static/js/main.187410b6.js",
     "static/js/453.b8adaec9.chunk.js": "/Music_App/static/js/453.b8adaec9.chunk.js",
     "static/media/6 Inch - Beyoncé.m4a": "/Music_App/static/media/6 Inch - Beyoncé.800af83eb00ad60fd226.m4a",
     "static/media/2gether - Mura Masa.m4a": "/Music_App/static/media/2gether - Mura Masa.4ce1cf814e875e214e7a.m4a",
@@ -13,12 +13,12 @@
     "static/media/Am I Dreaming AETrim1687198923752 AETrim1687199626456 AEMerge1687199649482.m4a": "/Music_App/static/media/Am I Dreaming AETrim1687198923752 AETrim1687199626456 AEMerge1687199649482.782f6be4b0fbfacd66b1.m4a",
     "static/media/Charging.mp3": "/Music_App/static/media/Charging.4df3ef553671955605f5.mp3",
     "index.html": "/Music_App/index.html",
-    "main.f32f07a5.css.map": "/Music_App/static/css/main.f32f07a5.css.map",
-    "main.e11d6efb.js.map": "/Music_App/static/js/main.e11d6efb.js.map",
+    "main.0c115196.css.map": "/Music_App/static/css/main.0c115196.css.map",
+    "main.187410b6.js.map": "/Music_App/static/js/main.187410b6.js.map",
     "453.b8adaec9.chunk.js.map": "/Music_App/static/js/453.b8adaec9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f32f07a5.css",
-    "static/js/main.e11d6efb.js"
+    "static/css/main.0c115196.css",
+    "static/js/main.187410b6.js"
   ]
 }

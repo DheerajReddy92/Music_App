@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Music_App/static/css/main.f32f07a5.css",
+    "main.js": "/Music_App/static/js/main.e11d6efb.js",
+    "static/js/453.b8adaec9.chunk.js": "/Music_App/static/js/453.b8adaec9.chunk.js",
+    "static/media/6 Inch - Beyoncé.m4a": "/Music_App/static/media/6 Inch - Beyoncé.800af83eb00ad60fd226.m4a",
+    "static/media/2gether - Mura Masa.m4a": "/Music_App/static/media/2gether - Mura Masa.4ce1cf814e875e214e7a.m4a",
+    "static/media/2step (feat. Lil Baby) - Ed Sheeran.m4a": "/Music_App/static/media/2step (feat. Lil Baby) - Ed Sheeran.05937f3792743b3bce6d.m4a",
+    "static/media/greedy - Tate McRae.m4a": "/Music_App/static/media/greedy - Tate McRae.a0cbca972562193cbcb5.m4a",
+    "static/media/2 die 4 (feat Charli XCX) - Addison Rae.m4a": "/Music_App/static/media/2 die 4 (feat Charli XCX) - Addison Rae.624276b5e78541c0e859.m4a",
+    "static/media/1-Sabotage.mp3": "/Music_App/static/media/1-Sabotage.b3c30461c12ed3791003.mp3",
+    "static/media/Trim Go Hard1669176372137.m4a": "/Music_App/static/media/Trim Go Hard1669176372137.6966c9a7b8fcfb637ee8.m4a",
+    "static/media/Am I Dreaming AETrim1687198923752 AETrim1687199626456 AEMerge1687199649482.m4a": "/Music_App/static/media/Am I Dreaming AETrim1687198923752 AETrim1687199626456 AEMerge1687199649482.782f6be4b0fbfacd66b1.m4a",
+    "static/media/Charging.mp3": "/Music_App/static/media/Charging.4df3ef553671955605f5.mp3",
+    "index.html": "/Music_App/index.html",
+    "main.f32f07a5.css.map": "/Music_App/static/css/main.f32f07a5.css.map",
+    "main.e11d6efb.js.map": "/Music_App/static/js/main.e11d6efb.js.map",
+    "453.b8adaec9.chunk.js.map": "/Music_App/static/js/453.b8adaec9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f32f07a5.css",
+    "static/js/main.e11d6efb.js"
+  ]
+}

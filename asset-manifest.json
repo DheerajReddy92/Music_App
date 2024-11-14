@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Music_App/static/css/main.5031bf0e.css",
-    "main.js": "/Music_App/static/js/main.cbf9b8e8.js",
+    "main.css": "/Music_App/static/css/main.f4ee4630.css",
+    "main.js": "/Music_App/static/js/main.ce70e287.js",
     "static/js/453.b8adaec9.chunk.js": "/Music_App/static/js/453.b8adaec9.chunk.js",
     "static/media/BREAK MY SOUL - Beyoncé.m4a": "/Music_App/static/media/BREAK MY SOUL - Beyoncé.1f2298a5d27627b61811.m4a",
     "static/media/6 Inch - Beyoncé.m4a": "/Music_App/static/media/6 Inch - Beyoncé.800af83eb00ad60fd226.m4a",
@@ -63,12 +63,12 @@
     "static/media/Am I Dreaming AETrim1687198923752 AETrim1687199626456 AEMerge1687199649482.m4a": "/Music_App/static/media/Am I Dreaming AETrim1687198923752 AETrim1687199626456 AEMerge1687199649482.782f6be4b0fbfacd66b1.m4a",
     "static/media/Charging.mp3": "/Music_App/static/media/Charging.4df3ef553671955605f5.mp3",
     "index.html": "/Music_App/index.html",
-    "main.5031bf0e.css.map": "/Music_App/static/css/main.5031bf0e.css.map",
-    "main.cbf9b8e8.js.map": "/Music_App/static/js/main.cbf9b8e8.js.map",
+    "main.f4ee4630.css.map": "/Music_App/static/css/main.f4ee4630.css.map",
+    "main.ce70e287.js.map": "/Music_App/static/js/main.ce70e287.js.map",
     "453.b8adaec9.chunk.js.map": "/Music_App/static/js/453.b8adaec9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5031bf0e.css",
-    "static/js/main.cbf9b8e8.js"
+    "static/css/main.f4ee4630.css",
+    "static/js/main.ce70e287.js"
   ]
 }

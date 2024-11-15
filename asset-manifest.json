@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Music_App/static/css/main.92e1560d.css",
-    "main.js": "/Music_App/static/js/main.daf6d4b5.js",
+    "main.js": "/Music_App/static/js/main.7048eab4.js",
     "static/js/453.b8adaec9.chunk.js": "/Music_App/static/js/453.b8adaec9.chunk.js",
     "static/media/1.Gulabi Kallu Rendu Mullu.mp3": "/Music_App/static/media/1.Gulabi Kallu Rendu Mullu.f5dccb7feda13ede938f.mp3",
     "static/media/BREAK MY SOUL - Beyoncé.m4a": "/Music_App/static/media/BREAK MY SOUL - Beyoncé.1f2298a5d27627b61811.m4a",
@@ -98,17 +98,16 @@
     "static/media/34.Endhukila Nannu Vedhisthunavey.mp3": "/Music_App/static/media/34.Endhukila Nannu Vedhisthunavey.7d56e4f39e82276d949a.mp3",
     "static/media/Am I Dreaming AETrim1687198923752 AETrim1687199626456 AEMerge1687199649482.m4a": "/Music_App/static/media/Am I Dreaming AETrim1687198923752 AETrim1687199626456 AEMerge1687199649482.782f6be4b0fbfacd66b1.m4a",
     "static/media/cover3.jpeg": "/Music_App/static/media/cover3.dd00ca4c070d429e4e18.jpeg",
-    "static/media/cover5.jpeg": "/Music_App/static/media/cover5.569ca3951ee1a62421cd.jpeg",
     "static/media/Charging.mp3": "/Music_App/static/media/Charging.4df3ef553671955605f5.mp3",
     "static/media/cover2.jpeg": "/Music_App/static/media/cover2.410e90f749a70b3ae2ad.jpeg",
     "static/media/cover4.jpeg": "/Music_App/static/media/cover4.9f0fc53177e1951a87f7.jpeg",
     "index.html": "/Music_App/index.html",
     "main.92e1560d.css.map": "/Music_App/static/css/main.92e1560d.css.map",
-    "main.daf6d4b5.js.map": "/Music_App/static/js/main.daf6d4b5.js.map",
+    "main.7048eab4.js.map": "/Music_App/static/js/main.7048eab4.js.map",
     "453.b8adaec9.chunk.js.map": "/Music_App/static/js/453.b8adaec9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92e1560d.css",
-    "static/js/main.daf6d4b5.js"
+    "static/js/main.7048eab4.js"
   ]
 }
